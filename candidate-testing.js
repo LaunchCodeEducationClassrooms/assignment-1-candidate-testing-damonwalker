@@ -14,7 +14,7 @@ let questions = ["Who was the first American woman in space? ",
    "\Given the array [8,'Orbit', 'Trajectory', 45]\, what entry is at index 2? ",
     "What is the minimum crew size of the ISS? "];
 
-let correctAnswers = ["Sally Ride", "True", "40", "Trajectory", "3"];
+let correctAnswers = ["Sally Ride", "true", "40", "Trajectory", "3"];
 let candidateAnswers = [];
 
 
