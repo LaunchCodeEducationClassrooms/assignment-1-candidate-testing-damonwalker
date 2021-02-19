@@ -5,9 +5,9 @@ const input = require('readline-sync');
 // TODO 1.1a: Define candidateName // 
 let candidateName = '';
 // TODO 1.2a: Define question, correctAnswer, and candidateAnswer //
-let question = '';
-let correctAnswer = '';
-let candidateAnswer = '';
+let question = "Who was the first American woman in space? ";
+let correctAnswer = "Sally Ride";
+let candidateAnswer = "";
 let questions = ["Who was the first American woman in space? ",
  "True or False: 5000 meters = 5 kilometers. " ,
   "(5+3)/2*10=? ",
